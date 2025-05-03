@@ -7,5 +7,5 @@ if happy:
   st.balloons()
   time.sleep(0.5)
   st.balloons()
-st.markdown("_-భవిష్_")
+st.code("-భవిష్")
 st.write("")
