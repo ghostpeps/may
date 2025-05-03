@@ -7,4 +7,5 @@ if happy:
   st.balloons()
   time.sleep(0.5)
   st.balloons()
-st.image(image="Happy Mother's Day (4).png")
+st.markdown("_-భవిష్_")
+st.write("")
