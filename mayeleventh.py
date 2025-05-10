@@ -8,5 +8,7 @@ if happy:
   st.balloons()
   time.sleep(1)
   st.balloons()
+  time.sleep(1)
+  st.balloons()
 st.markdown(":green-badge[డాష్‌బోర్డ్‌లోని పెట్టెలో చూడండి]")
 st.write("-భవిష్")
