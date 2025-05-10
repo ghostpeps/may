@@ -11,5 +11,4 @@ if happy:
   time.sleep(1)
   st.balloons()
 st.markdown(":green-badge[డాష్‌బోర్డ్‌లోని పెట్టెలో చూడండి]")
-st.video(data="mothersday.mp4", loop=True, autoplay=True, muted=False)
 st.write("-భవిష్")
