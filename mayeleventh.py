@@ -2,6 +2,7 @@ import streamlit as st
 
 import time
 
+st.title(":material/celebration: మాతృ దినోత్సవ శుభాకాంక్షలు!")
 happy = st.button(label="మాతృ దినోత్సవ శుభాకాంక్షలు!", icon=":material/celebration:")
 if happy:
   st.balloons()
