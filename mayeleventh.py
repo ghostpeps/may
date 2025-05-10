@@ -8,5 +8,5 @@ if happy:
   st.balloons()
   time.sleep(0.5)
   st.balloons()
-st.write("-భవిష్")
 st.markdown(":green-badge[డాష్‌బోర్డ్‌లోని పెట్టెలో చూడండి]")
+st.write("-భవిష్")
