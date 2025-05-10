@@ -6,7 +6,7 @@ st.title(":material/celebration: మాతృ దినోత్సవ శుభ
 happy = st.button(label="మాతృ దినోత్సవ శుభాకాంక్షలు!", icon=":material/celebration:")
 if happy:
   st.balloons()
-  time.sleep(0.5)
+  time.sleep(1)
   st.balloons()
 st.markdown(":green-badge[డాష్‌బోర్డ్‌లోని పెట్టెలో చూడండి]")
 st.write("-భవిష్")
