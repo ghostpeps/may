@@ -8,4 +8,4 @@ if happy:
   time.sleep(0.5)
   st.balloons()
 st.write("-భవిష్")
-st.markdown(":green-badge[:material/deployed_code:డాష్‌బోర్డ్‌లోని పెట్టెలో చూడండి]")
+st.markdown(":green-badge[డాష్‌బోర్డ్‌లోని పెట్టెలో చూడండి]")
